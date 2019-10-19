@@ -1,6 +1,6 @@
 # Convert an image of a face to a network
 
 <p float="left">
-  <img src="ulf.png" width="200" />
-  <img src="ulf_bot10000_pow2.0sampling_kmin3_kmax10.png" width="215" /> 
+  <img src="sejal1.png" width="200" />
+  <img src="sejal1_bot10000_pow4.0sampling_kmin3_kmax10_nsamples_100_10000_nframes_50.gif" width="215" /> 
 </p>
